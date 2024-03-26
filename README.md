@@ -1,7 +1,7 @@
 # An Analysis of FormulaOne
 
 ## Overview
-We examine data about Formula One. We estimate who wind the 2024 drivers and constructors championship.  
+We examine data about Formula One. We estimate who wins the 2024 drivers and constructors championship.  
 
 
 To use this folder, click the green "Code" button", then "Download ZIP". Move the downloaded folder to where you want to work on your own computer, and then modify it to suit.
